@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FootballClubs.DTO\FootballClubs.DTO.csproj" />
+    <ProjectReference Include="..\FootballClubs.Models\FootballClubs.Models.csproj" />
+    <ProjectReference Include="..\FootballClubs.Repositories.Interfaces\FootballClubs.Repositories.Interfaces.csproj" />
+    <ProjectReference Include="..\FootballClubs.Services.Interfaces\FootballClubs.Services.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
