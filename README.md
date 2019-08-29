@@ -1,6 +1,6 @@
 # FootballClubs
 
-To buuild FE app
+To build FE app
 -- npm i
 -- ng serve
 
